@@ -4,16 +4,13 @@ Try it at https://expo.io/@community/with-facebook-auth
 
 ## How to use
 
+- Use [this link](https://snack.expo.io/@git/github.com/expo/examples:with-facebook-auth) to open this project in your browser
+
 ### Running the app
 
 - `cd` into the `app` directory and run `yarn` or `npm install`
 - Open `app` with `exp` or XDE, try it out.
 - Press "Open FB Auth" in the app and then check your logs. Take the `redirectUrl` that was logged and enter it into the "Valid OAuth redirect URIs" in your Facebook app configuration step below.
-
-
-### Open in [Snack](https://docs.expo.io/versions/latest/workflow/glossary-of-terms/#snack)
-
-- Use [this link](https://snack.expo.io/@git/github.com/expo/examples:with-facebook-auth) to open this project in your browser
 
 ### Setting up the Facebook app
 
