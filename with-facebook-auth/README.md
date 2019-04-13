@@ -4,7 +4,7 @@ Try it at https://expo.io/@community/with-facebook-auth
 
 ## How to use
 
-- Use [this link](https://snack.expo.io/@git/github.com/expo/examples:with-facebook-auth) to open this project in your browser
+- Use [this link](https://snack.expo.io/@git/github.com/expo/examples:with-facebook-auth) to open this project in your browser using Snack
 
 ### Running the app
 
